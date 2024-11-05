@@ -2,6 +2,6 @@ import React from 'react'
 
 export const contact = () => {
   return (
-    <div className='title'>Contact Us</div>
+    <div className='title'>Contact Us!</div>
   )
 }
