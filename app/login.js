@@ -2,7 +2,8 @@ import React from 'react'
 
 const login = () => {
   return (
-    <div>login</div>
+    <div>login na gani</div>
+
   )
 }
 
